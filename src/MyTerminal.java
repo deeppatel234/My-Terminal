@@ -45,7 +45,6 @@ public class MyTerminal {
         catFile cf = new catFile();
         moveFile mf = new moveFile();
         copyFile copf = new copyFile();
-        Whois wi = new Whois();
         //Path = "A:\\MyOSData\\";
         //Path = "A:\\";
         Path = "C:\\";
@@ -122,9 +121,6 @@ public class MyTerminal {
                 else if (command.substring(0, 5).equals("show "))
                     si.shows(command.substring(5, command.length()),mt.getPath());
                         
-                else if(command.substring(0, 6).equals("whois "))
-                    wi.whois(command.substring(6, command.length()));
-                
                 else if(command.substring(0, 6).equals("mkdir "))
                     mk.makedir(command.substring(6, command.length()),mt.getPath());
                         
