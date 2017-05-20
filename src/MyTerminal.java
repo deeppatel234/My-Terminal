@@ -653,7 +653,7 @@ class Help
         System.out.println("All Commands : ");
         System.out.println("NEW    : Used to make a new file in current directory");
         System.out.println("EDIT   : Used to edit a text file in current directory");
-        System.out.println("DELETE : Used to delete a file in current directory");
+        System.out.println("DEL : Used to delete a file in current directory");
         System.out.println("DIR    : Show working directory.");
         System.out.println("CD     : Changes the current directory.");
         System.out.println("SHOW   : Displays a list of files and subdirectories in a directory."); 
