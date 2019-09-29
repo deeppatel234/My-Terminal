@@ -7,4 +7,4 @@
 ![ALT-TXT](https://github.com/deeppatel234/My-Terminal/blob/master/Screenshots/my%20terminal1.PNG)
 
 ## All Available Commands
-![ALT-TXT](https://github.com/deeppatel234/My-Terminal/blob/master/Screenshots/help.PNG)
+![ALT-TXT](https://asadsadgithub.com/deeppatel234/My-Terminal/blob/master/Screenshots/help.PNG)
